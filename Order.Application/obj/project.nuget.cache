@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7e38o7aywzPRMrJ8VJClmo8qvus0QMt7knvWkQuaRgxdtRpZZEw3Isi4WqY+nrTyk/wBTcihY3pC0Y1r0Bqv7A==",
+  "success": true,
+  "projectFilePath": "/home/omer/RiderProjects/OrderDDD/Order.Application/Order.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/omer/.nuget/packages/mediatr/12.0.1/mediatr.12.0.1.nupkg.sha512",
+    "/home/omer/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/omer/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
